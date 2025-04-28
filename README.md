@@ -1,1 +1,2 @@
-"# androidhelloworld" 
+# androidhelloworld
+Aplikace pro hello world
